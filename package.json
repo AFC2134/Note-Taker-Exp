@@ -1,0 +1,19 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "an app to track employees by alex cooney",
+  "main": "server..js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFC2134/Employee-Tracker.git"
+  },
+  "author": "Alex Cooney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AFC2134/Employee-Tracker/issues"
+  },
+  "homepage": "https://github.com/AFC2134/Employee-Tracker#readme"
+}
